@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(104, 190, 179);
+}
+
+#boton_enviar{
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+#boton_ordenar{
+    display: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+input{
+    margin: 10px;
+}
+
+input{
+    background-color: rgb(197, 243, 227);
+}
+
+button{
+    background-color: rgb(121, 197, 227);
+}
